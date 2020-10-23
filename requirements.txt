@@ -1,0 +1,4 @@
+scrapy
+sqlite3
+datetime
+twisted
