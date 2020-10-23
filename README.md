@@ -44,5 +44,6 @@ from .items import MoponCrawlerItem
 3. 
 ```bash
 $ cd ..
+$ cd ..
 $ scrapy crawl mopon -o out.json
 ```
